@@ -1,4 +1,3 @@
-SObre mi.
 
 Mi nombre es Brandon Alejandro Montalvo Garcia.
 
