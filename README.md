@@ -9,6 +9,9 @@ garantizar la mejor calidad en sus productos.
 Mi experiencia actual en pruebas manuales de Interfaz de usuario, gracias al aprendizaje obtenido recientemente he desarrollado un gusto particular por el diseño y ejecución de pruebas automatizadas y API con la ayuda de herramientas como POSTMAN y Pycharm.
 
 Contacto: 
+
 Telefono: 5540667478
+
 E-mail: bmontalvo244@gmail.com
+
 Perfil de Linkedin:  linkedin.com/in/brandon-montalvo-garcia
